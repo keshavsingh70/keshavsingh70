@@ -1,16 +1,14 @@
 # 💫 Hi 👋, I'm Keshav Kushwaha
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Full Stack Devloper || DevOps Engineer || India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **keshav70070@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:**
+- 🌱 **I’m currently learning:** Full Stack Devlopment 
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 📫 **How to reach me:** Keshav70070@gmail.com
+- 😄 **Pronouns:** Keshav Bhai
+- ⚡ **Fun fact:** Keep digging 
 
 
 ## 🏆 GitHub Trophies
